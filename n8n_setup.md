@@ -1,0 +1,10 @@
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture1.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture2.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture3.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture4.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture5.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture6.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture7.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture8.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture9.png?raw=true) <br>
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/n8n_setup/Picture10.png?raw=true) <br>
