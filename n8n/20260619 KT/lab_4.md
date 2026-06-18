@@ -1,0 +1,1 @@
+![image](https://github.com/KoreaEva/AX/blob/main/n8n/20260619%20KT/images/labs/lab_3.jpg?raw=true) <br>
